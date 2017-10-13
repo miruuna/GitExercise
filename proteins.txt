@@ -4,5 +4,6 @@ Lysozyme Human LYSC_HUMAN P61626 148
 Hemoglobin-alpha Human HBA_HUMAN P69905 142
 Hemoglobin-beta Human HBB_HUMAN P68871 157
 Hemoglobin-beta Human HBB_HUMAN P68871780
+PFKM	Gaina	pfkm rat
 
 This is clearly a mistake!
